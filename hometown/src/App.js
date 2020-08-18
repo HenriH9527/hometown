@@ -1,5 +1,6 @@
 import React from 'react'
 // import './static/css/App.css'
+import './static/css/App.less'
 
 function App() {
   return (
